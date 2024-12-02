@@ -1,4 +1,4 @@
-# bankapp
+# Flutter-BankApp
 
 A new Flutter project.
 
